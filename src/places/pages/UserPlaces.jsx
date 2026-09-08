@@ -1,7 +1,5 @@
 const UserPlaces = () => {
-    return (
-        
-    )
+  return <></>
 }
 
 export default UserPlaces
