@@ -1,4 +1,4 @@
-const UserPlaces = () => {
+const UserPlaces = (props) => {
   return <></>
 }
 
